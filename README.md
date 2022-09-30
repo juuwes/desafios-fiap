@@ -11,7 +11,7 @@ Neste repositórios estão os desafios realizados até o momento no curso - [Ime
 
 - <b>Consulta - </b> Utilizando <b><i>Vetores</i></b>: Programa que pede a idade e a altura de 5 pessoas, armazena cada informação em seu respectivo vetor. E imprime a idade e altura na ondem inversa a ordem lida.
 
-- <b>Detetive - </b> Utilizando <b><i>Vetores</i></b>: Programa que representa o jogo <i>Detetive</i>, onde são realizadas perguntas de "sim ou não", conforme as repostas, o programa determina se o usuário é "suspeito", "cúmplice "inocente" ou "assassino".
+- <b>Detetive - </b> Utilizando <b><i>Vetores</i></b>: Programa que representa o jogo <i>Detetive</i>, onde são realizadas perguntas de "sim ou não", conforme as repostas, o programa determina se o usuário é "suspeito", "cúmplice", "inocente" ou "assassino".
 
 - <b>Notas - </b> Utilizando <b><i>Vetores</i></b>: Programa que calcula a média de 4 notas armazenadas em um vetor.
 
