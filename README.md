@@ -2,7 +2,7 @@
 
 ⚙ *Curso em andamento*.
 
-Neste repositórios estão os desafios realizados até o momento no curso - [Imersão Java Xpert: Full Stack Development | FIAP](https://www.fiap.com.br/shift-ant/curso/tecnologia/java-xpert-full-stack-development).
+Neste repositório estão os desafios realizados até o momento no curso - [Imersão Java Xpert: Full Stack Development | FIAP](https://www.fiap.com.br/shift-ant/curso/tecnologia/java-xpert-full-stack-development).
 
 ### 💻 Linguagens utilizadas: Java
 
