@@ -1,10 +1,23 @@
-### Desafios - Java <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<h2 align="center"> Desafios - Java <img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></h2>
+
+<div align="justify">
 
 ⚙ *Curso em andamento*.
 
 Neste repositório estão os desafios realizados até o momento no curso - [Imersão Java Xpert: Full Stack Development | FIAP](https://www.fiap.com.br/shift-ant/curso/tecnologia/java-xpert-full-stack-development).
 
 ### 💻 Linguagens utilizadas: Java
+  
+### 📚 Temas abordados:
+
+✓ Operadores aritméticos. </br>
+✓ Vetores. </br>
+✓ <b><i>if-else</i></b>. </br>
+✓ <b><i>switch-case</i></b>. </br>
+✓ Operador <b><i>"mod"</i></b>  (% - resto da divisão). </br>
+✓ <b><i>for</i></b> | <b><i>java.time.format.TextStyle</i></b> |  <b><i>java.time.Month</i></b> | <b><i>java.util.Locale</i></b>.</br>
+✓ Vetores. </br>
+✓ Matrizes.
 
 ## 🚩 Desafios
 - <b>Calculadora - </b> Utilizando <b><i>operadores aritméticos</i></b>: Programa que irá realizar a soma, subtração, multiplicação e divisão de dois valores.
